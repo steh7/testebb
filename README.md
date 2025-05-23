@@ -12,8 +12,9 @@
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg)
 
 
+  <h3 align="center">Linguagens e ferramentas que estou utilizando atualmente:</h3>
+
 <div align="center">
-  ### Linguagens e ferramentas que estou utilizando atualmente:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -41,27 +42,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
-<div align="center">
+<h3 align="center">Meu Spotify:</h3>
 
+<div align="center">
   <a href="https://open.spotify.com/user/7te86w3cb5awkcar8x5bxe8yg">
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=7te86w3cb5awkcar8x5bxe8yg&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=true" alt="Spotify">
   </a>
-
 </div>
 
+<h3 align="center">Minhas redes:</h3>
 
 <div align="center">
-  ### Minhas redes:
-
-  <a href="instagram.com/crlstephany" target="_blank">
+  <a href="https://instagram.com/crlstephany" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <a href="x.com/steh7x" target="_blank">
+  <a href="https://x.com/steh7x" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
   </a>
   <a href="https://www.linkedin.com/in/stephany-chrystine-d-607548241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
