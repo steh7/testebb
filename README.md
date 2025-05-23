@@ -65,3 +65,4 @@ Sou Estudante de Desenvolvimento de Sistemas, apaixonada por tecnologia, jogos e
   </div>
 
 
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg)
