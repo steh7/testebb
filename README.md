@@ -67,6 +67,7 @@
 <div align="center">
   <h3 align="center" style="color:#00bfbf;">Contador de Curiosos</h3>
   <p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=steh7.steh7" alt="Visitor Badge" />
+    <img src="https://count.getloli.com/get/@steh7" alt="Visitor Badge" />
   </p>
 </div>
+
