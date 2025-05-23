@@ -11,8 +11,9 @@
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg)
 
-### Linguagens e ferramentas que estou utilizando atualmente:
+
 <div align="center">
+  ### Linguagens e ferramentas que estou utilizando atualmente:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -50,9 +51,9 @@
 </div>
 
 
-### Minhas redes:
-
 <div align="center">
+  ### Minhas redes:
+
   <a href="instagram.com/crlstephany" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
