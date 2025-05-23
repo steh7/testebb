@@ -30,6 +30,14 @@
 </div>
 
 ###
+<div align="center">
+  
+  <a href="https://open.spotify.com/user/7te86w3cb5awkcar8x5bxe8yg">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=7te86w3cb5awkcar8x5bxe8yg&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=true" alt="Spotify">
+  </a>
+
+</div>
+###
 
 <div align="center">
   <a href="instagram.com/crlstephany" target="_blank">
@@ -43,11 +51,3 @@
   </a>
 </div>
 
-
-<div align="center">
-  
-  <a href="https://open.spotify.com/user/7te86w3cb5awkcar8x5bxe8yg">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=7te86w3cb5awkcar8x5bxe8yg&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=true" alt="Spotify">
-  </a>
-
-</div>
