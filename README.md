@@ -1,11 +1,8 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=STEH7&reversal=false&textBg=false&fontColor=000000" alt="STEH7"/>
-</div>
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=STEH7&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="STEH7 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STEH7&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-###
+<h2>Olá! Eu sou a Stephany</h2>
+
+### 
+Sou Estudante de Desenvolvimento de Sistemas, apaixonada por tecnologia, jogos e sempre em busca de novos aprendizados.
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -49,12 +46,22 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/7te86w3cb5awkcar8x5bxe8yg">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/7te86w3cb5awkcar8x5bxe8yg&count=10&unique=true" alt="Spotify recently played"  />
-  </a>
+
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=steh7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+
+
+<div align="left">
+  <a href="https://instagram.com/crlstephany" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/stephany-chrystine-d-607548241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  </div>
+
+
