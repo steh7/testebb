@@ -1,9 +1,10 @@
-<h2 align="center">👋 Oi, eu sou a Stephany!</h2>
-
-###
-
-<h4 align="center">🎓 Estudante de Desenvolvimento de Sistemas, apaixonada por tecnologia e sempre em busca de novos aprendizados.<br><br>💻 Estou desenvolvendo projetos para aprimorar minhas habilidades em programação, lógica e desenvolvimento web.<br><br>🚀 Interesso-me por desenvolvimento backend, frontend e práticas de boas arquiteturas de software.</h4>
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=STEH7&reversal=false&textBg=false&fontColor=000000" alt="STEH7"/>
+</div>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=STEH7&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="STEH7 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STEH7&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 ###
 
 <div align="center">
