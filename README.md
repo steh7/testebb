@@ -1,3 +1,10 @@
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=STEH7&textBg=false&fontColor=fffff&reversal=false" alt="Banner STEH7">
+
+</div>
+
+
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg)
 
 
