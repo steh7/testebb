@@ -63,3 +63,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+<div align="center">
+  <h3 align="center" style="color:#00bfbf;">Contador de Curiosos</h3>
+  <p align="center">
+    <img src="https://profile-counter.glitch.me/steh7/count.svg" />
+  </p>
+</div>
