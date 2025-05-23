@@ -11,7 +11,7 @@
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg)
 
-
+### Linguagens que estou utilizando atualmente:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
